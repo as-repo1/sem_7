@@ -72,6 +72,18 @@
 - *Objective:* Alter, destroy, or interfere with data.
 - *Examples:* Injection attacks, man-in-the-middle attacks.
 
+| Aspect                     | Passive Attack                                                               | Active Attack                                                                                 |
+| -------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Definition**       | Involves monitoring and eavesdropping on data                                | Involves actively modifying or disrupting data                                                |
+| **Intent**           | Typically to gather information without altering                             | To alter, destroy, or manipulate data                                                         |
+| **Nature**           | Observes and gathers data without altering it                                | Directly interacts with the target, leaving a noticeable impact                               |
+| **Examples**         | Eavesdropping, traffic analysis, monitoring communication                    | Malware, denial-of-service attacks, injection attacks                                         |
+| **Objective**        | Gain information without alerting the target                                 | Cause disruption, steal information, or compromise system integrity                           |
+| **Timing**           | Can occur at any time without immediate detection                            | Involves immediate and direct engagement with the target system                               |
+| **Detection**        | Harder to detect as it does not involve direct interaction                   | More likely to be detected, especially if the attack causes noticeable disruptions            |
+| **Prevention Focus** | Focus on encrypting sensitive data, using secure communication channels      | Focus on intrusion detection, firewalls, and security measures to prevent direct manipulation |
+| **Response**         | Requires monitoring and preventive measures to protect against data exposure | Requires immediate response and mitigation to prevent further damage                          |
+
 #### 5. What are DoS and DDoS attacks? What are the steps to protect against DoS/DDoS attacks? [2+5]
 
 **DoS (Denial of Service) Attack:**
