@@ -152,7 +152,7 @@ Email forensics involves the investigation and analysis of email data to uncover
      - Image or clone storage media to preserve the original evidence.
      - Document the collection process and maintain chain of custody.
 
-3. **Analysis:**
+3. **Examination:**
    - *Objective:*
      - Examine and analyze the acquired digital evidence.
    - *Activities:*
