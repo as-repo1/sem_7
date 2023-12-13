@@ -15,6 +15,18 @@
   - *Nature:* Deliberate and intentional.
   - *Outcome:* Results in damage, compromise, or unauthorized access.
 
+  | Aspect                     | Threat                                        | Attack                                          |
+  | -------------------------- | --------------------------------------------- | ----------------------------------------------- |
+  | **Definition**       | A potential danger or unwanted event          | The actual exploitation or malicious action     |
+  | **Nature**           | Can be passive or active                      | Deliberate and intentional                      |
+  | **Intent**           | May or may not be intentional                 | Intentional, with the goal to cause harm        |
+  | **Outcome**          | No immediate harm or damage                   | Results in harm, damage, or unauthorized access |
+  | **Examples**         | Social engineering, phishing, vulnerabilities | Malware, exploitation, data breaches            |
+  | **Objective**        | To exploit vulnerabilities or weaknesses      | Successful exploitation, causing harm           |
+  | **Timing**           | Potential, ongoing, or future threat          | Immediate and active threat                     |
+  | **Prevention Focus** | Focused on avoiding potential risks           | Focused on mitigating active risks              |
+  | **Response**         | Proactive measures to prevent potential harm  | Reactive measures to counter ongoing harm       |
+
 #### 2. What is buffer overflow? Discuss the types of buffer overflow. [5]
 
 **Buffer Overflow:**
