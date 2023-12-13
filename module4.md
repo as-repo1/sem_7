@@ -30,23 +30,44 @@ Cyber Forensics, also known as Digital Forensics, is the application of investig
 
 #### 3. Mention the various tools involved in email forensics. [5]
 
-**Email Forensics Tools:**
+### Email Forensics Tools
+
+Email forensics involves the investigation and analysis of email data to uncover evidence related to cybercrimes, fraud, or other malicious activities. Various tools are used by digital forensics professionals to examine email artifacts, trace email communications, and gather relevant information. Here are some common tools used in email forensics:
 
 1. **EnCase:**
+   - *Overview:* EnCase is a comprehensive digital forensic tool that includes features for email analysis. It can be used to examine email headers, attachments, and metadata.
+   - *Features:*
+     - Email parsing and analysis.
+     - Metadata extraction.
+     - Email content examination.
 
-   - Used for comprehensive forensic analysis, including email examination.
 2. **MailXaminer:**
+   - *Overview:* MailXaminer is a specialized email forensics tool designed for the analysis of various email formats. It supports the examination of both webmail and desktop-based email clients.
+   - *Features:*
+     - Email parsing and recovery.
+     - Metadata analysis.
+     - Attachment examination.
 
-   - Specialized tool for email forensics, supporting various email formats.
 3. **X-Ways Forensics:**
+   - *Overview:* X-Ways Forensics is a forensic software that includes features for analyzing email data. It provides detailed views of email content and attachments.
+   - *Features:*
+     - Email header analysis.
+     - Attachment extraction.
+     - Search and filter capabilities.
 
-   - Provides email analysis capabilities along with broader forensic functions.
-4. **Forensic Toolkit (FTK):**
+4. **Axiom Cyber:**
+   - *Overview:* Axiom Cyber by Magnet Forensics is a digital forensics tool that supports email analysis. It helps investigators in examining email artifacts and communications.
+   - *Features:*
+     - Email timeline analysis.
+     - Metadata examination.
+     - Keyword and content search.
 
-   - Used for analyzing and recovering email evidence in forensic investigations.
-5. **MailStore:**
-
-   - Helps in archiving and examining email content for investigative purposes.
+5. **MailMarshal:**
+   - *Overview:* MailMarshal is an email security and content filtering tool that can also be used for forensic analysis. It helps in monitoring and analyzing email traffic.
+   - *Features:*
+     - Email traffic monitoring.
+     - Content filtering.
+     - Policy enforcement.
 
 #### 4. Explain the various challenges faced in computer forensics. [5]
 
