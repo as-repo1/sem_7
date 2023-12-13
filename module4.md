@@ -107,7 +107,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 
 #### 5. Illustrate the phases involved in Digital Forensics Life Cycle with a proper diagram. [5]
 
-![Digital Forensics Life Cycle](insert_diagram_url_here)
+![Digital Forensics Life Cycle](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XgK9xQ6_s3O5G_RLZiFK5gHaCu%26pid%3DApi&f=1&ipt=04c4b601491e7dbd28ac01872cc87b9715200988be393fc722f44b766d1a38c5&ipo=images)
 
 **Digital Forensics Life Cycle Phases:**
 
@@ -123,7 +123,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 4. **Analysis:**
 
    - Conduct a detailed examination of the evidence to draw conclusions and reconstruct events.
-5. **Documentation:**
+5. **Documentation / Reporting:**
 
    - Document the entire forensic process, methodologies, and findings for legal purposes.
 
