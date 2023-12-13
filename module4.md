@@ -1,6 +1,6 @@
-### Module 4: Cyber Forensics
+## Module 4: Cyber Forensics
 
-#### 1. Describe Cyber Forensics and mention its role in collecting digital evidence. [7]
+### 1. Describe Cyber Forensics and mention its role in collecting digital evidence. [7]
 
 **Cyber Forensics:**
 Cyber Forensics, also known as Digital Forensics, is the application of investigative techniques to collect, analyze, and preserve electronic evidence in a manner that maintains its integrity for potential use in legal proceedings. It encompasses the investigation of computer systems, networks, digital devices, and electronic data to uncover and analyze cybercrimes.
@@ -14,11 +14,11 @@ Cyber Forensics, also known as Digital Forensics, is the application of investig
 5. **Documentation:** Document the entire forensic process, ensuring the admissibility of evidence in legal proceedings.
 6. **Presentation:** Present findings in a clear and understandable manner during legal proceedings.
 
-#### 2. Elaborate the steps in forensic analysis of email. [3]
+### 2. Elaborate the steps in forensic analysis of email. [3]
 
 **Forensic Analysis of Email:**
 
-### Steps in Forensic Analysis of Email
+#### Steps in Forensic Analysis of Email
 
 Email forensic analysis involves the systematic examination of email data to gather evidence for investigations. Here are the key steps in the forensic analysis of email:
 
@@ -44,9 +44,9 @@ These steps provide a foundational framework for the forensic analysis of email.
 
 It's important to note that the field of digital forensics is dynamic, and the choice of tools and techniques may vary based on the case requirements and available resources. Additionally, adherence to legal and ethical considerations is crucial throughout the forensic analysis process.
 
-#### 3. Mention the various tools involved in email forensics. [5]
+### 3. Mention the various tools involved in email forensics. [5]
 
-### Email Forensics Tools
+#### Email Forensics Tools
 
 Email forensics involves the investigation and analysis of email data to uncover evidence related to cybercrimes, fraud, or other malicious activities. Various tools are used by digital forensics professionals to examine email artifacts, trace email communications, and gather relevant information. Here are some common tools used in email forensics:
 
@@ -85,7 +85,7 @@ Email forensics involves the investigation and analysis of email data to uncover
      - Content filtering.
      - Policy enforcement.
 
-#### 4. Explain the various challenges faced in computer forensics. [5]
+### 4. Explain the various challenges faced in computer forensics. [5]
 
 **Challenges in Computer Forensics:**
 
@@ -105,29 +105,56 @@ Email forensics involves the investigation and analysis of email data to uncover
 
    - Digital evidence is susceptible to alteration or loss if not handled promptly and accurately.
 
-#### 5. Illustrate the phases involved in Digital Forensics Life Cycle with a proper diagram. [5]
+### 5. Illustrate the phases involved in Digital Forensics Life Cycle with a proper diagram. [5]
 
 ![Digital Forensics Life Cycle](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XgK9xQ6_s3O5G_RLZiFK5gHaCu%26pid%3DApi&f=1&ipt=04c4b601491e7dbd28ac01872cc87b9715200988be393fc722f44b766d1a38c5&ipo=images)
 
 **Digital Forensics Life Cycle Phases:**
 
-1. **Identification:**
+1. **Identification and Preparation:**
+   - *Objective:*
+     - Recognize and prepare for a potential digital forensic investigation.
+   - *Activities:*
+     - Identify the need for a forensic investigation.
+     - Secure the scene and preserve evidence.
+     - Identify stakeholders and establish communication channels.
+     - Assemble the digital forensics team.
 
-   - Identify and define the scope of the digital forensics investigation.
 2. **Collection:**
+   - *Objective:*
+     - Gather relevant digital evidence from various sources.
+   - *Activities:*
+     - Collect physical devices (computers, storage media, etc.).
+     - Image or clone storage media to preserve the original evidence.
+     - Document the collection process and maintain chain of custody.
 
-   - Collect relevant digital evidence using forensically sound methods.
-3. **Examination:**
+3. **Analysis:**
+   - *Objective:*
+     - Examine and analyze the acquired digital evidence.
+   - *Activities:*
+     - Recover deleted or hidden files.
+     - Analyze system logs and artifacts.
+     - Identify patterns and anomalies.
+     - Use forensic tools and techniques for in-depth analysis.
 
-   - Analyze the collected evidence to uncover patterns, anomalies, and potential leads.
-4. **Analysis:**
+4. **Documentation:**
+   - *Objective:*
+     - Record and document the findings and analysis results.
+   - *Activities:*
+     - Create detailed reports.
+     - Document the tools and methodologies used.
+     - Summarize key findings and observations.
+     - Prepare evidence for legal proceedings.
 
-   - Conduct a detailed examination of the evidence to draw conclusions and reconstruct events.
-5. **Documentation / Reporting:**
+5. **Presentation:**
+   - *Objective:*
+     - Present the findings in a clear and understandable manner.
+   - *Activities:*
+     - Create presentations or reports for stakeholders.
+     - Testify in court if required.
+     - Communicate technical findings in a non-technical manner.
 
-   - Document the entire forensic process, methodologies, and findings for legal purposes.
-
-#### 6. Discuss the detailed steps of ‘Digital Evidence Documentation’ process while handling forensics evidences for the legal framework. [10]
+### 6. Discuss the detailed steps of ‘Digital Evidence Documentation’ process while handling forensics evidences for the legal framework. [10]
 
 **Digital Evidence Documentation Process:**
 
@@ -162,7 +189,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 
     - Summarize the entire digital evidence documentation process in a comprehensive final report for use in legal proceedings.
 
-#### 7. Explain the precautions required during the storage and transport of digital evidence. [5]
+### 7. Explain the precautions required during the storage and transport of digital evidence. [5]
 
 **Precautions for Storage and Transport of Digital Evidence:**
 
@@ -182,7 +209,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 
    - Use tamper-evident packaging to detect and deter any attempts to tamper with the evidence.
 
-#### 8. “Maintaining Chain of Custody is important in Digital Forensics” – Mention the components of this chain and why this is important [8]
+### 8. “Maintaining Chain of Custody is important in Digital Forensics” – Mention the components of this chain and why this is important [8]
 
 **Components of Chain of Custody:**
 
@@ -219,7 +246,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 
  and professional approach to handling and presenting evidence, enhancing the investigator's credibility.
 
-#### 9. Explain cyberspace with respect to the concept cyber forensics. [5]
+### 9. Explain cyberspace with respect to the concept cyber forensics. [5]
 
 **Cyberspace in Cyber Forensics:**
 
