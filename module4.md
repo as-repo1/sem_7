@@ -184,7 +184,7 @@ Email forensics involves the investigation and analysis of email data to uncover
 
 ### 6. Discuss the detailed steps of ‘Digital Evidence Documentation’ process while handling forensics evidences for the legal framework. [10]
 
-**Digital Evidence Documentation Process in Forensic Investigations**
+****
 
 Digital evidence documentation is a crucial aspect of forensic investigations, especially when preparing evidence for the legal framework. Proper documentation ensures the integrity, admissibility, and reliability of digital evidence in a court of law. Here are detailed steps for the digital evidence documentation process:
 
@@ -304,15 +304,13 @@ Digital evidence documentation is a crucial aspect of forensic investigations, e
    - Document the analysis procedures, tools used, and findings during the examination.
 8. **Presentation in Court:**
 
-   - Ensure that the chain of custody documentation is admissible in court, providing a clear and unbroken record of the evidence's handling.
+   - Ensure that the chain of custody documentation is admissible in coDigital Evidence Documentation Process in Forensic Investigationsurt, providing a clear and unbroken record of the evidence's handling.
 
 **Importance:**
 
 - **Legal Admissibility:** Maintaining the chain of custody establishes the credibility and admissibility of digital evidence in legal proceedings.
 - **Integrity Assurance:** It ensures that the evidence is preserved in a manner that prevents tampering or alteration, maintaining its integrity.
-- **Professionalism:** Demonstrates a systematic
-
- and professional approach to handling and presenting evidence, enhancing the investigator's credibility.
+- **Professionalism:** Demonstrates a systematic and professional approach to handling and presenting evidence, enhancing the investigator's credibility.
 
 ### 9. Explain cyberspace with respect to the concept cyber forensics. [5]
 
