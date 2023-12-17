@@ -1,5 +1,12 @@
 # NLP sem q-paper
 
+# imp-links:
+
+[javatpoint-nlp](https://www.javatpoint.com/nlp)
+
+[geek4geeks-nlp
+](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/)
+
 ---
 
 **1. Discuss in details the steps of Natural Language processing. Discuss with example the various levels in ambiguity in Natural Language? (10 points)**
