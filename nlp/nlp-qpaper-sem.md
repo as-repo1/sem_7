@@ -59,7 +59,7 @@
 
 ---
 
-**14. For each sentence, identify whether the different meanings arise from structural ambiguity, syntactic ambiguity, semantic ambiguity, or pragmatic ambiguity? (i) Time flies like an arrow (ii) He crushed the key to my heart (Module1/CO1/Apply-HOCQ) (2.5+2.5=)**
+**14. For each sentence, identify whether the different meanings arise from structural ambiguity, syntactic ambiguity, semantic ambiguity, or pragmatic ambiguity? (i) Time flies like an arrow (ii) He crushed the key to my heart (Module1/CO1/Apply-HOCQ) (2.5+2.5=5)**
 
 ---
 
