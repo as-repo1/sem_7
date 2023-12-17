@@ -11,9 +11,11 @@
 
 **1. Discuss in details the steps of Natural Language processing. Discuss with example the various levels in ambiguity in Natural Language? (10 points)**
 
+
+
 ---
 
-**2. Explain the algorithm to edit one string X of length n to a string Y of length m. Show the steps of your algorithm for X=INTENTION and Y=EXECUTION (10 points)**
+**2.Explain the algorithm to edit one string X of length n to a string Y of length m. Show the steps of your algorithm for X=INTENTION and Y=EXECUTION (10 points)**
 
 ---
 
