@@ -91,11 +91,17 @@ B. MULTIDIMENTIONAL -> MULTIDIMENTION
 
 ---
 
-**17. (i) Briefly describe Hidden Markov Model (HMM). (Module 6/CO4/Apply-HOCQ) (5 points) (ii) How does the Viterbi algorithm work in the context of hidden Markov models (HMMs)? (Module 6/CO4/Apply-HOCQ) (5 points)**
+**17. (i) Briefly describe Hidden Markov Model (HMM). (Module 6/CO4/Apply-HOCQ) (5 points)** 
+
+**(ii) How does the Viterbi algorithm work in the context of hidden Markov models (HMMs)?** **(5 points)**
+
+**(Module 6/CO4/Apply-HOCQ)** 
 
 ---
 
-**18. (i) What is query term proximity, and how does it impact the effectiveness of search engine results? (Module 8/CO5/Analyse-IOCQ) (5 points) (ii) How does query optimization impact the efficiency of natural language processing applications? (Module 8/CO5/Analyse-IOCQ)**
+**18. (i) What is query term proximity, and how does it impact the effectiveness of search engine results? (Module 8/CO5/Analyse-IOCQ) (5 points)** 
+
+**(ii) How does query optimization impact the efficiency of natural language processing applications? (Module 8/CO5/Analyse-IOCQ)**
 
 ---
 
@@ -111,7 +117,11 @@ B. MULTIDIMENTIONAL -> MULTIDIMENTION
 
 ---
 
-**22. a) Describe the fundamental concepts involved in Natural Language Processing (NLP). (Module1/CO1/Understand-LOCQ) b) How would you apply Natural Language Processing techniques to sentiment analysis in social media posts? (Module1/CO1/Apply-LOCQ) 2.5+2.5= c) What are the main challenges in NLP? (Module1/CO1/Understand-LOCQ) (3 points)**
+**22. a) Describe the fundamental concepts involved in Natural Language Processing (NLP). (Module1/CO1/Understand-LOCQ)** 
+
+**b) How would you apply Natural Language Processing techniques to sentiment analysis in social media posts? (Module1/CO1/Apply-LOCQ)** 
+
+**c) What are the main challenges in NLP? (Module1/CO1/Understand-LOCQ) (3 points)**
 
 ---
 
@@ -147,11 +157,27 @@ B. MULTIDIMENTIONAL -> MULTIDIMENTION
 
 ---
 
-**31. What are the first few steps you'll take before applying a natural language processing (NLP) machine-learning algorithm on a corpus? (Module1/CO1/Understand-LOCQ) Answer:  Eliminating white spaces  Eliminating Punctuation  Lowercase to Uppercase Conversion  Tokenization  Getting Rid of Stopwords  Lemmatization. (5 points)**
+**31. What are the first few steps you'll take before applying a natural language processing (NLP) machine-learning algorithm on a corpus? (Module1/CO1/Understand-LOCQ)** **(5 points)**
+
+**Answer:** 
+
+** Eliminating white spaces** 
+
+** Eliminating Punctuation** 
+
+** Lowercase to Uppercase Conversion** 
+
+** Tokenization** 
+
+** Getting Rid of Stopwords** 
+
+** Lemmatization.** 
 
 ---
 
-**32. Computing minimum edit distances by hand, figure out whether drive is closer to brief or to divers and what the edit distance is. [Using 1-insertion, 1-deletion, 2-substitution costs] (Module2/CO2/Apply-IOCQ) (7 points)**
+**32. Computing minimum edit distances by hand, figure out whether drive is closer to brief or to divers and what the edit distance is.** **(7 points)**
+
+**[Using 1-insertion, 1-deletion, 2-substitution costs] (Module2/CO2/Apply-IOCQ)** 
 
 ---
 
