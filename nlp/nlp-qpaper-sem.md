@@ -11,8 +11,6 @@
 
 **1. Discuss in details the steps of Natural Language processing. Discuss with example the various levels in ambiguity in Natural Language? (10 points)**
 
-
-
 ---
 
 **2.Explain the algorithm to edit one string X of length n to a string Y of length m. Show the steps of your algorithm for X=INTENTION and Y=EXECUTION (10 points)**
@@ -172,10 +170,13 @@
 
 ---
 
-**40. You have trained a bigram language model on a large corpus of text. In this model, the vocabulary contains 5,000 words. You want to calculate the probability of the sentence "I love AI" according to this bigram model. You have the following information: The probability of the word "I" occurring at the beginning of a sentence (i.e., P("I" | `<start>`)) is 0.05. The bigram probabilities for the words "love" and "AI" are as follows: P("love" | "I") = 0. P
+**40. You have trained a bigram language model on a large corpus of text. In this model, the vocabulary contains 5,000 words. You want to calculate the probability of the sentence "I love AI" according to this bigram model. You have the following information: The probability of the word "I" occurring at the beginning of a sentence (i.e., P("I" | `<start>`)) is 0.05. The bigram probabilities for the words "love" and "AI" are as follows: P("love" | "I") = 0. P**
+
+---
 
 **41. (i) What is Smoothing? Why is it required? (Module 4/CO3/Understand-IOCQ) (4 points)**
-   **(ii) Write down the equation for the discount d = c*/c for add-one smoothing. (Module 4/CO3/Apply-IOCQ) (5 points)**
+
+   ****(ii) Write down the equation for the discount d = c*/c for add-one smoothing. (Module 4/CO3/Apply-IOCQ) (5 points)***
    **(iii) Do the same thing used for Witten - Bell smoothing. How do they differ? (Module 4/CO3/Analyse-IOCQ) (4 points)**
 
 ---
