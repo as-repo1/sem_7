@@ -62,7 +62,16 @@
 
 ---
 
-**13. i) What do you mean by Part-of-Speech tagging? (4 points) ii) Compare open class & closed class word groups with suitable examples (4 points) iii) What is Word Sense Disambiguation (WSD)? (3 points) iv) Explain how Transformation-Based Learning (TBL) Rules are applied in NLP (4 points)**
+**13. i) What do you mean by Part-of-Speech tagging? (4 points)** 
+
+**ii) Compare open class & closed class word groups with suitable examples (4 points)** 
+
+**iii) What is Word Sense Disambiguation (WSD)? (3 points)**
+
+**iv) Explain how Transformation-Based Learning (TBL) Rules are applied in NLP (4 points)**
+
+A. CHARACTARIZATION -> CHARACTAR
+B. MULTIDIMENTIONAL -> MULTIDIMENTION
 
 ---
 
@@ -74,7 +83,11 @@
 
 ---
 
-**16. i) Draw tree structure for the following ATIS sentences : (Module 6/CO2/Apply-HOCQ) (5 points) I prefer a morning flight I want a morning flight Using S →NP VP NP →Pronoun | Pronoun-Noun | Det Nominal Nominal →Nominal Noun |Noun VP →verb | Verb NP | Verb NP PP | Verb PP (ii) Why is synonymy important in language and communication? (Module 7/CO2/Analyse-IOCQ) (5 points) (iii) What is perplexity in the context of language modeling, and why is it an important metric? (Module 4/CO2/Analyse-IOCQ) (5 points)**
+**16. i) Draw tree structure for the following ATIS sentences : (Module 6/CO2/Apply-HOCQ) (5 points)** 
+
+**(ii) Why is synonymy important in language and communication? (Module 7/CO2/Analyse-IOCQ) (5 points)** 
+
+**(iii) What is perplexity in the context of language modeling, and why is it an important metric? (Module 4/CO2/Analyse-IOCQ) (5 points)**
 
 ---
 
